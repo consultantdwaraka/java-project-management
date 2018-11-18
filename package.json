@@ -1,0 +1,15 @@
+{
+  "name": "njpm",
+  "version": "0.0.3",
+  "description": "CLI tool to manage java project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dwaraka K",
+  "license": "ISC",
+  "bin": {
+    "njpm":"./index.js"
+  }
+}
